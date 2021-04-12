@@ -1,6 +1,4 @@
 
-# Each use case should contain the following elements:
-
 ## Title 
 (active verb phrase, states main goal)
 
