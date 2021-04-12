@@ -1,7 +1,11 @@
 ## REQUIREMENTS GROUP 4 
-# (Jamal Saied, Cameron Baird, Jaden Hawley, and Daniel Buffum)
+Metric: Job Opportunities
+<!-- (Jamal Saied, Cameron Baird, Jaden Hawley, and Daniel Buffum) -->
 
 # Actors
+
+Employer
+User
 
 
 Just creating document :)
