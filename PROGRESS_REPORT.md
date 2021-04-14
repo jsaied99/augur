@@ -1,6 +1,6 @@
 # Requirements Document 
 
-The requirements document can be found [link](https://docs.google.com/document/d/1zw-Pd_iiZD1LMJvueFm2DPRkMfjYrcbxcd_lVbkwGhY/edit)
+The requirements document can be found [link](https://docs.google.com/document/d/1zw-Pd_iiZD1LMJvueFm2DPRkMfjYrcbxcd_lVbkwGhY/edit?usp=sharing)
 
 # Augur Instance 
 
