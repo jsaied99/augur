@@ -1,8 +1,8 @@
 # Requirements Document 
 
-[The requirements Document](https://docs.google.com/document/d/1zw-Pd_iiZD1LMJvueFm2DPRkMfjYrcbxcd_lVbkwGhY/edit)
+[The requirements Document](https://docs.google.com/document/d/117CQ4yC4P6OjxIOnkEgnnL8VSwtypcd_-B622_mI0_U/edit?usp=sharing)
 
-[The Design Document](https://docs.google.com/document/d/1lECNmV73Z7VF0mzXBD4UNzX5DSh5uv5__PFNUywtKjU/edit?usp=sharing)
+[The Design Document](https://docs.google.com/document/d/10hAbv2xSinAt9TXZr4UJym5f1OyhpQmTKEHoyVaS9Fo/edit?usp=sharing)
 
 [Hello World Program](helloWorld.ipynb)
 
