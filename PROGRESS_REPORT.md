@@ -4,7 +4,7 @@
 
 [The Design Document](https://docs.google.com/document/d/1EbXl1l9ba5ekEZoI_IjXmNUohH6C2KW5Pe3q1lyfyBE/edit?usp=sharing)
 
-[Sprint3 Program](sprint-3.ipynb)
+[Our Program](sprint-3.ipynb)
 
 # Augur Instance 
 
